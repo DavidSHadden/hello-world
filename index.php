@@ -1,6 +1,8 @@
-<?php>
-
-phinfo();</?>
 
 Testing to Openshift - Autopull
+<?php>
+
+phinfo();
+
+?>
 
