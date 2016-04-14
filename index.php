@@ -1,4 +1,6 @@
 <?php>
+
+phinfo();</?>
+
 Testing to Openshift
-<?>phinfo();</?>
-</?>
+
